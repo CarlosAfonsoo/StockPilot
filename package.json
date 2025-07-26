@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarlosAfonsoo/StockPilot/issues"
   },
-  "homepage": "https://github.com/CarlosAfonsoo/StockPilot#readme"
+  "homepage": "https://github.com/CarlosAfonsoo/StockPilot#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
