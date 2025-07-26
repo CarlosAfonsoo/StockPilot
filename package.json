@@ -1,0 +1,19 @@
+{
+  "name": "stockpilot",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de estoque",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAfonsoo/StockPilot.git"
+  },
+  "author": "CarlosAfonsoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAfonsoo/StockPilot/issues"
+  },
+  "homepage": "https://github.com/CarlosAfonsoo/StockPilot#readme"
+}
